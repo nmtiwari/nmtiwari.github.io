@@ -6,7 +6,7 @@ permalink: /about.html
 ---
 ![nmtiwari](me.jpg){:class="img-responsive"}
 
-Recently graduated from [Iowa State university](http://www.iastate.edu/) and have joined [SAP](https://www.sap.com/corporate/en.html) as software engineer in the mobility devision and am working on developing SDK for application building.
+Recently graduated from [Iowa State university](http://www.iastate.edu/) and have joined [SAP](https://www.sap.com/corporate/en.html) as software engineer in the mobility division and am working on developing SDK for building SAP ERP application.
 
 Before that, I took two internships, first at [Workiva](https://www.workiva.com) where I helped developing cloud based XBRL documents,
  and second at [Huawei Labs](http://www.huawei.com/us/) where I developed automatic task merge support for compiling the domain specific
