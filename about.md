@@ -12,7 +12,7 @@ Before that, I took two internships, first at [Workiva](https://www.workiva.com)
  and second at [Huawei Labs](http://www.huawei.com/us/) where I developed automatic task merge support for compiling the domain specific
 programs into multiple performance variants.
 
-Before joining the Masters program I was working as software engineer for [Samsung Research Labs]https://samsung.com/about) where I got opportunities to develop major mobile products including [Galaxy smart phone series](http://www.samsung.com/us/mobile/phones/)
+Before joining the Masters program I was working as software engineer for [Samsung Research Labs](https://samsung.com/about) where I got opportunities to develop major mobile products including [Galaxy smart phone series](http://www.samsung.com/us/mobile/phones/)
   and [Rugby 4](http://www.samsung.com/us/mobile/phones/all-other-phones/samsung-rugby-4-at-t-flip-phone-sm-b780azkaatt/)
 
 
