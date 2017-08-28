@@ -4,7 +4,10 @@ title: Nitin Mukesh Tiwari
 <!-- tagline: A software engineer by profession -->
 permalink: /about.html
 ---
-![nmtiwari](me.jpg){:class="img-responsive"}
+<!-- ![nmtiwari](me.jpg){:class="img-responsive"} -->
+<center>
+  <img src="me.jpg" width="480">
+</center>
 
 Recently graduated from [Iowa State university](http://www.iastate.edu/) and have joined [SAP](https://www.sap.com/corporate/en.html) as software engineer in the mobility division and am working on developing SDK for building SAP ERP application.
 
